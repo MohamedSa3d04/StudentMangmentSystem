@@ -5,6 +5,7 @@ This is a simple Student Management System implemented in Python using the Tkint
 ## Prerequisites
 - Python installed on your machine (https://www.python.org/)
 - MySQL installed on your machine (https://www.mysql.com/)
+- XAMPP program to building a local host data base in your system, More info : https://www.youtube.com/watch?v=co-xyHRdHRg&pp=ygULeGFtcHAgbXlzcWw%3D
 
 ## Installation
 1. Clone the repository to your local machine.
