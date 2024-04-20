@@ -11,7 +11,7 @@ This is a simple Student Management System implemented in Python using the Tkint
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/Student-Management-System.git
+git clone https://github.com/MohamedSa3d04/StudentManagementSystem.git
 cd StudentManagementSystem
 ```
 
